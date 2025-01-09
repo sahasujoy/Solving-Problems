@@ -25,5 +25,3 @@ var reverse = function(x) {
 
     return isNegative ? -result : result;
 };
-
-console.log(reverse(1501));
